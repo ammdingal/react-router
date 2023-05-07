@@ -1,0 +1,49 @@
+#home {
+    margin: 0 auto;
+    width: 500px;
+}
+
+    h1 {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    img {
+        height: 150px;
+        border: 5px solid black;
+        margin: 10px;
+    }
+
+    #dp {
+        height: 500px;
+    }
+
+.MyWebsite {
+    background: linear-gradient(#C1D4E2, #CEE0EC);
+}
+
+    li {
+        display: inline-block;
+        padding: 20px;
+    }
+
+#gallery {
+    margin-left: 20px;
+}
+
+.aboutMe {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+    p {
+        width: 800px;
+        border: 5px solid black;
+        padding: 10px;
+    }
+
+    p, img {
+        display: inline-block;
+        vertical-align: top;
+    }
